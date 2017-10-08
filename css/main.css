@@ -1,0 +1,43 @@
+body {
+  background-image: url("../images/bedge_grunge.png");
+  font-family: 'Quicksand', sans-serif;
+}
+
+.resize {
+  width: 100%;
+  height:auto;
+  padding-bottom: 20pt;
+}
+
+.resize-about {
+  width: 100%;
+  height: auto;
+  padding-top: 20pt;
+  padding-bottom: 30pt;
+}
+
+
+.button-alignments {
+  width: 100%;
+  /*font-family: serif;*/
+  font-style: normal;
+  background-color: rgba(91, 109, 70, 0.2);
+}
+
+.about-text {
+  font-family: serif;
+  text-align: center;
+}
+
+.end-text {
+  text-align: center;
+  color: #73220c;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 70pt;
+    vertical-align: middle;
+    margin-bottom: 5pt;
+    margin-right: 10pt;
+}
