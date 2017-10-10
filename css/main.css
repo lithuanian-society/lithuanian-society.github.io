@@ -41,3 +41,7 @@ body {
     margin-bottom: 5pt;
     margin-right: 10pt;
 }
+
+.special-buttons {
+  background-color: rgba(101, 109, 70, 0.4);
+}
