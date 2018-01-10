@@ -1,2 +1,3 @@
-LitSoc
+###LitSoc
 ------
+#Edinburgh University Lithuanian Society website
